@@ -1,0 +1,19 @@
+C:\Users\97798\source\repos\movie ticket\movie ticket\bin\Debug\net8.0-windows\movie ticket.exe
+C:\Users\97798\source\repos\movie ticket\movie ticket\bin\Debug\net8.0-windows\movie ticket.dll
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\movie_ticket.afterLogin.resources
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\movie_ticket.Form1.resources
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\movie_ticket.Form2.resources
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\movie_ticket.Resources.resources
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\movie ticket.vbproj.GenerateResource.cache
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\movie ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\movie ticket.AssemblyInfoInputs.cache
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\movie ticket.AssemblyInfo.vb
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\movie ticket.vbproj.CoreCompileInputs.cache
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\movie ticket.dll
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\refint\movie ticket.dll
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\movie ticket.pdb
+C:\Users\97798\source\repos\movie ticket\movie ticket\bin\Debug\net8.0-windows\movie ticket.deps.json
+C:\Users\97798\source\repos\movie ticket\movie ticket\bin\Debug\net8.0-windows\movie ticket.runtimeconfig.json
+C:\Users\97798\source\repos\movie ticket\movie ticket\bin\Debug\net8.0-windows\movie ticket.pdb
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\movie ticket.genruntimeconfig.cache
+C:\Users\97798\source\repos\movie ticket\movie ticket\obj\Debug\net8.0-windows\ref\movie ticket.dll
